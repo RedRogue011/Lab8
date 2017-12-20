@@ -1,0 +1,52 @@
+*{
+    padding: 0px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+body {
+    
+    background-color: black;
+    
+}
+.menu{
+    background-color: whitesmoke;
+    padding: 0px 0px;
+    color: black;
+    
+} 
+
+.intro {
+    
+    color: whitesmoke;
+    border: 4px  dotted;
+    margin-top: 100px;
+    height: 40px;
+    width: 350px;
+    padding-top: 20px;
+    
+}
+
+.full-box{
+    
+    background-color: crimson;
+    margin-top: 150px;
+    height: 150px; 
+    
+}
+
+.middle-box{
+   
+    background-color: green;
+    height:  90px;
+    width: 250px;
+    margin-top: 40px;
+    
+}
+
+.middle-box p {
+    
+   color: whitesmoke;
+    padding-top: 35px;
+}
